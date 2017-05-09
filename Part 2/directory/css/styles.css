@@ -1,0 +1,32 @@
+header#header1.ui-header.ui-bar-inherit {
+    background-color: black;
+    color: white;
+}
+
+h1.ui-title {
+    opacity: 1;
+}
+
+#search {
+    
+    margin-top: 0;
+    height: 50px;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+input #search-2 {
+    border:1px solid black;
+}
+
+div.ui-input-search.ui-body-inherit.ui-corner-all.ui-shadow-inset.ui-input-has-clear {
+    border: 1px solid black;
+    margin-top: .5px;
+    margin-right:.25em;
+    margin-left: 100px;
+    
+}
+
+.heading {
+    text-align:center;
+}
